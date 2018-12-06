@@ -29,7 +29,7 @@
           <li>I can code Javascript</li>
           <li>I can made people unite! (Totally useless....)</li>
         </ul>
-        <img src="http://38.media.tumblr.com/295a853f5c6ad204a1e863f66deacb73/tumblr_ngw54aPLc21u5gtpvo1_500.gif">
+        <img src=https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3vYK59ovfAhVIQ6wKHdD1Ah0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F758926974678549022%2F&psig=AOvVaw2OmY2EgrRKkxMScwcgddh3&ust=1544210070629521>
         </div>
     </div>
   </body>
