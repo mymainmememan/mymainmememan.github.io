@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Captain America</title>
+    <title>wakanda forever</title>
     <link href="https://fonts.googleapis.com/css?family=Black+And+White+Picture" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="icon" type="image/png" href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwieiqfT8IvfAhUKKnwKHaUGDJIQjRx6BAgBEAU&url=http%3A%2F%2Fmarvelcinematicuniverse.wikia.com%2Fwiki%2FFile%3ACaptain_America_Shield.png&psig=AOvVaw1eWybGdlvn1xYoQIMMd7Tu&ust=1544208920067575">
