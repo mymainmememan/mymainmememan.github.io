@@ -3,7 +3,7 @@ i am lonely help me
 i need it please help me
 cornflake is flirting with me
 
-<!DOCTYPE html> 
+
 <html>  <link rel="stylesheet" href="new-1.css"/>
   <h1>how to get good at games
   </h1>
