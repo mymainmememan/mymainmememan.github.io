@@ -29,7 +29,7 @@
           <li>I can code Javascript</li>
           <li>I can made people unite! (Totally useless....)</li>
         </ul>
-        <img src=https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwifyq3s9ovfAhUKEawKHcyLDzYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.redbubble.com%2Fpeople%2Fdrobbins%2Fworks%2F28541752-wakanda-forever%3Fp%3Dart-print&psig=AOvVaw2OmY2EgrRKkxMScwcgddh3&ust=1544210070629521>
+        <img src=https://ih1.redbubble.net/image.447771952.1752/ap,550x550,16x12,1,transparent,t.u2.png>
         </div>
     </div>
   </body>
