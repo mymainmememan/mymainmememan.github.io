@@ -1,1 +1,45 @@
+body {
+    background-color: #5d6577;
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 18px;
+}
 
+.body {
+    width: 1000px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.header {
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px;
+    background-color: #e0e0e8;
+}
+
+.header h1 {
+    font-size: 50px;
+    line-height: 10px;
+    color:#00205b;
+}
+
+.container {
+    padding: 15px;
+}
+
+.container img {
+    max-width: 100%;
+    width: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .body {
+        width: 100%;
+    }
+}
