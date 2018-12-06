@@ -17,7 +17,7 @@
         </div>
       </div>
       <div class="container">
-        <h1>Hi there, I'm Captain America!</h1>
+        <h1>Hi there, I'm wakanda forever!</h1>
         <img src=https://i.imgur.com/QIIy7FC.jpg>
         <p>
           I'm a hero because I can code. Forget about my muscles, its my brain that makes me awesome. I taught Tony Stark <b>everything</b> he knows.
@@ -27,7 +27,7 @@
           <li>I can code HTML</li>
           <li>I can code CSS</li>
           <li>I can code Javascript</li>
-          <li>I can pick up a car! (Totally useless....)</li>
+          <li>I can made people unite! (Totally useless....)</li>
         </ul>
         <img src="http://38.media.tumblr.com/295a853f5c6ad204a1e863f66deacb73/tumblr_ngw54aPLc21u5gtpvo1_500.gif">
         </div>
