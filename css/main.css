@@ -1,8 +1,9 @@
 body {
     background-color: #5d6577;
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/file_6fa4374d.jpeg?width=1200&region=0%2C0%2C2000%2C2000&quality=8");
     font-family: 'Black And White Picture', sans-serif;
     font-size: 18px;
-    color: #ff00ff;
+    color: #00cc00;
 }
 
 .body {
@@ -21,14 +22,13 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 15px;
-    background-color: #e0e0e8;
-    color: ff6600;
+    background-color: #99ffff;
 }
 
 .header h1 {
-    font-size: 50px;
+    font-size: 80px;
     line-height: 10px;
-    color:#00205b;
+    color:#ff0066;
 }
 
 .container {
