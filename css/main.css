@@ -23,6 +23,7 @@ body {
     flex-wrap: wrap;
     padding: 15px;
     background-color: #99ffff;
+    font-family: 'Gamja Flower', cursive;
 }
 
 .header h1 {
